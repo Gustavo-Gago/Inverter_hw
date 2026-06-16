@@ -1,6 +1,6 @@
 ﻿[Design]
 Version=1.0
-HierarchyMode=4
+HierarchyMode=2
 ChannelRoomNamingStyle=0
 ReleasesFolder=
 ChannelDesignatorFormatString=$Component_$RoomName
@@ -168,6 +168,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PAXFDYOR
 
+[Document8]
+DocumentPath=SCH\Current_DC_Sense.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=LBTNFZIL
+
 [ProjectVariant1]
 UniqueId=66c1dc48-8f44-478f-9d0e-c241173bc419
 Description=Desarrollo
@@ -177,20 +194,20 @@ VariationCount=0
 ParamVariationCount=0
 
 [Parameter1]
-Name=Author
-Value=eUSRacing
+Name=Revision
+Value=0.0
 
 [Parameter2]
-Name=Date
-Value=07/06/2026
-
-[Parameter3]
 Name=Project
 Value=ECU
 
+[Parameter3]
+Name=Date
+Value=07/06/2026
+
 [Parameter4]
-Name=Revision
-Value=0.0
+Name=Author
+Value=eUSRacing
 
 [DiffPairSuffix1]
 Positive=_H
