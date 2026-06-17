@@ -169,7 +169,7 @@ GenerateClassCluster=0
 DocumentUniqueId=PAXFDYOR
 
 [Document8]
-DocumentPath=SCH\Current_DC_Sense.SchDoc
+DocumentPath=SCH\Current_AC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=600
 AnnotationIndexControlEnabled=1
@@ -194,20 +194,20 @@ VariationCount=0
 ParamVariationCount=0
 
 [Parameter1]
-Name=Revision
-Value=0.0
+Name=Author
+Value=eUSRacing
 
 [Parameter2]
-Name=Project
-Value=ECU
-
-[Parameter3]
 Name=Date
 Value=07/06/2026
 
+[Parameter3]
+Name=Project
+Value=ECU
+
 [Parameter4]
-Name=Author
-Value=eUSRacing
+Name=Revision
+Value=0.0
 
 [DiffPairSuffix1]
 Positive=_H
