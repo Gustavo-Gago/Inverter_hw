@@ -205,11 +205,11 @@ DocumentUniqueId=AWVUYWVY
 [Document10]
 DocumentPath=SCH\DCDC_Traco.SchDoc
 AnnotationEnabled=1
-AnnotateStartValue=1
+AnnotateStartValue=800
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=8
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -222,11 +222,11 @@ DocumentUniqueId=CFDANSHZ
 [Document11]
 DocumentPath=SCH\Voltage_AC.SchDoc
 AnnotationEnabled=1
-AnnotateStartValue=1
+AnnotateStartValue=900
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=9
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
