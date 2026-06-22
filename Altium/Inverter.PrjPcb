@@ -118,23 +118,6 @@ GenerateClassCluster=0
 DocumentUniqueId=NENUUUOG
 
 [Document5]
-DocumentPath=SCH\DC_Link.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=300
-AnnotationIndexControlEnabled=1
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=3
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=IYOILRFT
-
-[Document6]
 DocumentPath=SCH\Driver.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=400
@@ -151,7 +134,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VQWQKVHE
 
-[Document7]
+[Document6]
 DocumentPath=SCH\MCU.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=500
@@ -168,7 +151,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PAXFDYOR
 
-[Document8]
+[Document7]
 DocumentPath=SCH\Current_AC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=700
@@ -185,7 +168,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LBTNFZIL
 
-[Document9]
+[Document8]
 DocumentPath=SCH\Power_Supply.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=600
@@ -202,7 +185,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AWVUYWVY
 
-[Document10]
+[Document9]
 DocumentPath=SCH\DCDC_Traco.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=800
@@ -219,7 +202,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CFDANSHZ
 
-[Document11]
+[Document10]
 DocumentPath=SCH\Voltage_AC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=900
@@ -235,6 +218,74 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ESWSRNXZ
+
+[Document11]
+DocumentPath=SCH\Voltage_DC.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=10000
+AnnotationIndexControlEnabled=1
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=10
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=IYOILRFT
+
+[Document12]
+DocumentPath=SCH\Current_DC.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document13]
+DocumentPath=SCH\Current_Limit.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document14]
+DocumentPath=SCH\GND_FAULT.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
 [ProjectVariant1]
 UniqueId=66c1dc48-8f44-478f-9d0e-c241173bc419
