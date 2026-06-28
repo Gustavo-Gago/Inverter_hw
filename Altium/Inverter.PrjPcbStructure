@@ -1,5 +1,6 @@
 Record=TopLevelDocument|FileName=Master.SchDoc|SheetNumber=1
 Record=SheetSymbol|SourceDocument=Master.SchDoc|Designator=CAC|SchDesignator=CAC|FileName=Current_AC.SchDoc|SheetNumber=5|SymbolType=Normal|RawFileName=Current_AC.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Master.SchDoc|Designator=Connector|SchDesignator=Connector|FileName=Connector_LV.SchDoc|SheetNumber=12|SymbolType=Normal|RawFileName=Connector_LV.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=Master.SchDoc|Designator=D_A|SchDesignator=D_A|FileName=Driver.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=Driver.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=Master.SchDoc|Designator=D_B|SchDesignator=D_B|FileName=Driver.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=Driver.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=Master.SchDoc|Designator=D_C|SchDesignator=D_C|FileName=Driver.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=Driver.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
@@ -21,5 +22,5 @@ Record=SheetSymbol|SourceDocument=Master.SchDoc|Designator=VAC_B|SchDesignator=V
 Record=SheetSymbol|SourceDocument=Master.SchDoc|Designator=VAC_C|SchDesignator=VAC_C|FileName=Voltage_AC.SchDoc|SheetNumber=8|SymbolType=Normal|RawFileName=Voltage_AC.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=Master.SchDoc|Designator=VAC_N|SchDesignator=VAC_N|FileName=Voltage_AC.SchDoc|SheetNumber=8|SymbolType=Normal|RawFileName=Voltage_AC.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=Master.SchDoc|Designator=VDC|SchDesignator=VDC|FileName=Voltage_DC.SchDoc|SheetNumber=9|SymbolType=Normal|RawFileName=Voltage_DC.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=NoMainPathDocument|SourceDocument=Master.SchDoc|FileName=Current_DC.SchDoc|SheetNumber=12
-Record=NoMainPathDocument|SourceDocument=Master.SchDoc|FileName=GND_FAULT.SchDoc|SheetNumber=13
+Record=NoMainPathDocument|SourceDocument=Master.SchDoc|FileName=Current_DC.SchDoc|SheetNumber=13
+Record=NoMainPathDocument|SourceDocument=Master.SchDoc|FileName=GND_FAULT.SchDoc|SheetNumber=14

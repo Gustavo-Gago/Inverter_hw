@@ -304,6 +304,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NJORVWIE
 
+[Document16]
+DocumentPath=SCH\Connector_LV.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1400
+AnnotationIndexControlEnabled=1
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=14
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=RIFELHXK
+
 [ProjectVariant1]
 UniqueId=66c1dc48-8f44-478f-9d0e-c241173bc419
 Description=Desarrollo
