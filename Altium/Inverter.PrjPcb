@@ -154,11 +154,11 @@ DocumentUniqueId=PAXFDYOR
 [Document7]
 DocumentPath=SCH\Current_AC.SchDoc
 AnnotationEnabled=1
-AnnotateStartValue=600
+AnnotateStartValue=500
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=6
+AnnotateOrder=5
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -171,11 +171,11 @@ DocumentUniqueId=LBTNFZIL
 [Document8]
 DocumentPath=SCH\Power_Supply.SchDoc
 AnnotationEnabled=1
-AnnotateStartValue=500
+AnnotateStartValue=600
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=5
+AnnotateOrder=6
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
