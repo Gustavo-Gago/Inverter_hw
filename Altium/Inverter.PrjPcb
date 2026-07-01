@@ -1448,7 +1448,7 @@ Net4=NetName=12V_Bat|NetColor=clYellow
 Net5=NetName=12V_MOTOR|NetColor=clLime
 Net6=NetName=12V_Outs_IN|NetColor=clFuchsia
 Net7=NetName=1V8|NetColor=clAqua
-Net8=NetName=3V3|NetColor=clRed
+Net8=NetName=3V3|NetColor=clBlack
 Net9=NetName=3V7|NetColor=$00FF0099
 Net10=NetName=5V_REMOTE|NetColor=clLime
 Net11=NetName=5V_USB|NetColor=clLime
