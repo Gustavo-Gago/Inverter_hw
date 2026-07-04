@@ -411,9 +411,11 @@ UniqueId=66c1dc48-8f44-478f-9d0e-c241173bc419
 Description=Desarrollo
 AllowFabrication=0
 ParameterCount=0
-VariationCount=2
+VariationCount=4
 Variation1=Designator=R413|UniqueId=\EKGFWNYI\BGPCSOYX|Kind=1|AlternatePart=
 Variation2=Designator=R422|UniqueId=\EKGFWNYI\PLAXZEVI|Kind=1|AlternatePart=
+Variation3=Designator=R1703|UniqueId=\EKGFWNYI\FNRTOBID\IMCQWIIC|Kind=1|AlternatePart=
+Variation4=Designator=R1716|UniqueId=\EKGFWNYI\FNRTOBID\TDRYUGER|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [Parameter1]
