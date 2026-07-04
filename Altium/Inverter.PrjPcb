@@ -411,11 +411,9 @@ UniqueId=66c1dc48-8f44-478f-9d0e-c241173bc419
 Description=Desarrollo
 AllowFabrication=0
 ParameterCount=0
-VariationCount=4
-Variation1=Designator=R413|UniqueId=\EKGFWNYI\BGPCSOYX|Kind=1|AlternatePart=
-Variation2=Designator=R422|UniqueId=\EKGFWNYI\PLAXZEVI|Kind=1|AlternatePart=
-Variation3=Designator=R1703|UniqueId=\EKGFWNYI\FNRTOBID\IMCQWIIC|Kind=1|AlternatePart=
-Variation4=Designator=R1716|UniqueId=\EKGFWNYI\FNRTOBID\TDRYUGER|Kind=1|AlternatePart=
+VariationCount=2
+Variation1=Designator=R1703|UniqueId=\EKGFWNYI\FNRTOBID\IMCQWIIC|Kind=1|AlternatePart=
+Variation2=Designator=R1716|UniqueId=\EKGFWNYI\FNRTOBID\TDRYUGER|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [Parameter1]
@@ -1552,7 +1550,7 @@ Net4=NetName=12V_Bat|NetColor=clYellow
 Net5=NetName=12V_MOTOR|NetColor=clLime
 Net6=NetName=12V_Outs_IN|NetColor=clFuchsia
 Net7=NetName=1V8|NetColor=clAqua
-Net8=NetName=3V3|NetColor=clBlack
+Net8=NetName=3V3|NetColor=clWhite
 Net9=NetName=3V7|NetColor=$00FF0099
 Net10=NetName=5V_REMOTE|NetColor=clLime
 Net11=NetName=5V_USB|NetColor=clLime
