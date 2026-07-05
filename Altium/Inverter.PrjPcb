@@ -305,7 +305,7 @@ GenerateClassCluster=0
 DocumentUniqueId=RIFELHXK
 
 [Document16]
-DocumentPath=SCH\TM_Acondicionation.SchDoc
+DocumentPath=SCH\TM_Conditioning.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1400
 AnnotationIndexControlEnabled=1
@@ -322,7 +322,7 @@ GenerateClassCluster=0
 DocumentUniqueId=PGMCFHBO
 
 [Document17]
-DocumentPath=SCH\Par_Acondicionation.SchDoc
+DocumentPath=SCH\Par_Conditioning.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1500
 AnnotationIndexControlEnabled=1
@@ -339,7 +339,7 @@ GenerateClassCluster=0
 DocumentUniqueId=VHZBLTVL
 
 [Document18]
-DocumentPath=SCH\SinCos_Acondicionation.SchDoc
+DocumentPath=SCH\SinCos_Conditioning.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1600
 AnnotationIndexControlEnabled=1
@@ -417,28 +417,28 @@ Variation2=Designator=R1716|UniqueId=\EKGFWNYI\FNRTOBID\TDRYUGER|Kind=1|Alternat
 ParamVariationCount=0
 
 [Parameter1]
-Name=Revision
-Value=0.0
+Name=Author
+Value=eUSRacing
 
 [Parameter2]
-Name=Project
-Value=ECU
-
-[Parameter3]
-Name=DrawnBy
-Value=Gustavo Gago
-
-[Parameter4]
-Name=Date
-Value=07/06/2026
-
-[Parameter5]
 Name=CompanyName
 Value=eUSRacing - University of Seville
 
+[Parameter3]
+Name=Date
+Value=07/06/2026
+
+[Parameter4]
+Name=DrawnBy
+Value=Gustavo Gago
+
+[Parameter5]
+Name=Project
+Value=ECU
+
 [Parameter6]
-Name=Author
-Value=eUSRacing
+Name=Revision
+Value=0.0
 
 [DiffPairSuffix1]
 Positive=_H
