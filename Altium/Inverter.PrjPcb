@@ -417,20 +417,28 @@ Variation2=Designator=R1716|UniqueId=\EKGFWNYI\FNRTOBID\TDRYUGER|Kind=1|Alternat
 ParamVariationCount=0
 
 [Parameter1]
-Name=Author
-Value=eUSRacing
+Name=Revision
+Value=0.0
 
 [Parameter2]
-Name=Date
-Value=07/06/2026
-
-[Parameter3]
 Name=Project
 Value=ECU
 
+[Parameter3]
+Name=DrawnBy
+Value=Gustavo Gago
+
 [Parameter4]
-Name=Revision
-Value=0.0
+Name=Date
+Value=07/06/2026
+
+[Parameter5]
+Name=CompanyName
+Value=eUSRacing - University of Seville
+
+[Parameter6]
+Name=Author
+Value=eUSRacing
 
 [DiffPairSuffix1]
 Positive=_H
