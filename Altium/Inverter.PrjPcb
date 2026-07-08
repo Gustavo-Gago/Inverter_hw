@@ -416,29 +416,37 @@ Variation1=Designator=R1703|UniqueId=\EKGFWNYI\FNRTOBID\IMCQWIIC|Kind=1|Alternat
 Variation2=Designator=R1716|UniqueId=\EKGFWNYI\FNRTOBID\TDRYUGER|Kind=1|AlternatePart=
 ParamVariationCount=0
 
+[GeneratedDocument1]
+DocumentPath=OUT\ASSY\[No Variations]\BOM\ECU-v0.0-[No Variations]-BOM_Grouped.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=OUT\ASSY\[No Variations]\BOM\ECU-v0.0-[No Variations]-BOM_XY.xlsx
+DItemRevisionGUID=
+
 [Parameter1]
-Name=Author
-Value=eUSRacing
+Name=Revision
+Value=0.0
 
 [Parameter2]
-Name=CompanyName
-Value=eUSRacing - University of Seville
+Name=Project
+Value=Inverter
 
 [Parameter3]
-Name=Date
-Value=07/06/2026
-
-[Parameter4]
 Name=DrawnBy
 Value=Gustavo Gago
 
+[Parameter4]
+Name=Date
+Value=07/06/2026
+
 [Parameter5]
-Name=Project
-Value=ECU
+Name=CompanyName
+Value=eUSRacing - University of Seville
 
 [Parameter6]
-Name=Revision
-Value=0.0
+Name=Author
+Value=eUSRacing
 
 [DiffPairSuffix1]
 Positive=_H
