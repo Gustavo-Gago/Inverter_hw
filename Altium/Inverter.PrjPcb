@@ -425,28 +425,28 @@ DocumentPath=OUT\ASSY\[No Variations]\BOM\ECU-v0.0-[No Variations]-BOM_XY.xlsx
 DItemRevisionGUID=
 
 [Parameter1]
-Name=Revision
-Value=0.0
+Name=Author
+Value=eUSRacing
 
 [Parameter2]
-Name=Project
-Value=Inverter
-
-[Parameter3]
-Name=DrawnBy
-Value=Gustavo Gago
-
-[Parameter4]
-Name=Date
-Value=07/06/2026
-
-[Parameter5]
 Name=CompanyName
 Value=eUSRacing - University of Seville
 
+[Parameter3]
+Name=Date
+Value=07/06/2026
+
+[Parameter4]
+Name=DrawnBy
+Value=Gustavo Gago
+
+[Parameter5]
+Name=Project
+Value=Inverter
+
 [Parameter6]
-Name=Author
-Value=eUSRacing
+Name=Revision
+Value=0.0
 
 [DiffPairSuffix1]
 Positive=_H
