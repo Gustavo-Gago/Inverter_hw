@@ -1,0 +1,10 @@
+DRC Rules Export File for PCB: C:\Git\Inverter_hw\Altium\LAY\Inverter.PcbDoc
+RuleKind=Clearance|RuleName=HV_SWITCH_CLEARENCE|Scope=Board|Minimum=31.50
+RuleKind=Width|RuleName=GATE_DRIVE_WIDTH|Scope=Board|Minimum=5.98
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=5.91
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=5.00
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=3.94
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=HV_POWER_WIDTH|Scope=Board|Minimum=5.91
+RuleKind=Clearance|RuleName=HV_POWER_CLEARENCE|Scope=Board|Minimum=31.50
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

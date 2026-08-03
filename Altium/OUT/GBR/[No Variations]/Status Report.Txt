@@ -1,0 +1,13 @@
+Output: NC_Drill
+Type  : NC Drill
+From  : PCB Document [Inverter.PcbDoc]
+   Generated File[Inverter-v0.0-[No Variations]-NC_Drill-Plated.TXT]
+   Generated File[Inverter-v0.0-[No Variations]-NC_Drill-NonPlated.TXT]
+   Generated File[Inverter-v0.0-[No Variations]-NC_Drill.LDP]
+   Generated File[Inverter-v0.0-[No Variations]-NC_Drill.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 2:50:58 On 14/07/2026
